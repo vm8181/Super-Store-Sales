@@ -2,7 +2,7 @@
 ## Introduction:
 The Super store sales analysis dashboard has created using Power BI. The purpose of this dashboard is to identify the business growth over the period and performance of sales by different products, city, gender and payment method. I have created two pages of report to get into deep of information.
 
-## Features used:
+## Functions & Features used:
 Created cards for the total sales of each Product
 
 Total Sales by gender
