@@ -5,7 +5,7 @@ The Super store sales analysis dashboard has created using Power BI. The purpose
 ## Functions & Features used:
 Created cards for the total sales of each Product
 
-Total Sales by gender
+:orange_circle: Total Sales by gender
 
 Total Sales by city
 
